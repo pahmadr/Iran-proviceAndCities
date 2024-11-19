@@ -1,0 +1,522 @@
+{
+    "provinces": [
+
+        {
+            "value": "azarbaijan-sharghi",
+            "label": "آذربایجان شرقی",
+            "cities": [
+              { "value": "tabriz", "label": "تبریز" },
+              { "value": "marand", "label": "مرند" },
+              { "value": "mianeh", "label": "میانه" },
+              { "value": "ajabshir", "label": "عجب‌شیر" },
+              { "value": "maragheh", "label": "مراغه" },
+              { "value": "khoy", "label": "خوی" },
+              { "value": "bostanabad", "label": "بستان‌آباد" },
+              { "value": "sarab", "label": "سراب" },
+              { "value": "eshtehard", "label": "اشتهارد" },
+              { "value": "jolfa", "label": "جلفا" },
+              { "value": "garmsar", "label": "گرمسار" },
+              { "value": "heris", "label": "هرس" },
+              { "value": "kushk", "label": "کوشک" },
+              { "value": "tabriz-south", "label": "تبریز جنوبی" }
+            ]
+          },
+        {
+            "value": "azarbaijan-gharbi",
+            "label": "آذربایجان غربی",
+            "cities": [
+              { "value": "urmia", "label": "ارومیه" },
+              { "value": "khoy", "label": "خوی" },
+              { "value": "mahabad", "label": "مهاباد" },
+              { "value": "miandoab", "label": "میاندوآب" },
+              { "value": "salmas", "label": "سلماس" },
+              { "value": "shahindezh", "label": "شاهین‌دژ" },
+              { "value": "naghadeh", "label": "نقده" },
+              { "value": "piranshahr", "label": "پیرانشهر" },
+              { "value": "takam", "label": "تکاب" },
+              { "value": "chaldoran", "label": "چالدران" },
+              { "value": "sardasht", "label": "سردشت" },
+              { "value": "ashnoyeh", "label": "اشنویه" },
+              { "value": "shoote", "label": "شوط" },
+              { "value": "chaypareh", "label": "چایپاره" },
+              { "value": "poldasht", "label": "پلدشت" }
+            ]
+          },
+        {
+            "value": "ardebil",
+            "label": "اردبیل",
+            "cities": [
+              { "value": "ardebil-city", "label": "اردبیل" },
+              { "value": "parsabad", "label": "پارس‌آباد" },
+              { "value": "meshginshahr", "label": "مشگین‌شهر" },
+              { "value": "khalkhal", "label": "خلخال" },
+              { "value": "germi", "label": "گرمی" },
+              { "value": "bilehsavar", "label": "بیله‌سوار" },
+              { "value": "nir", "label": "نیر" },
+              { "value": "kosar", "label": "کوثر" },
+              { "value": "sarain", "label": "سرعین" },
+              { "value": "aslandouz", "label": "اصلاندوز" },
+              { "value": "anbaran", "label": "عنبران" }
+            ]
+          },
+        {
+            "value": "esfahan",
+            "label": "اصفهان",
+            "cities": [
+              { "value": "esfahan-city", "label": "اصفهان" },
+              { "value": "kashan", "label": "کاشان" },
+              { "value": "najafabad", "label": "نجف آباد" },
+              { "value": "shahreza", "label": "شهرضا" },
+              { "value": "falavand", "label": "فولادشهر" },
+              { "value": "mobarakeh", "label": "مبارکه" },
+              { "value": "lenjan", "label": "لنجان" },
+              { "value": "khvayej", "label": "خوانسار" },
+              { "value": "nain", "label": "نائین" },
+              { "value": "samiran", "label": "سمیرم" },
+              { "value": "golpayegan", "label": "گلپایگان" },
+              { "value": "khomeini-shahr", "label": "خمینی‌شهر" },
+              { "value": "estahbanat", "label": "استهبان" },
+              { "value": "esfahan", "label": "اصفهان" }
+            ]
+          },
+        {
+            "value": "alborz",
+            "label": "البرز",
+            "cities": [
+              { "value": "karaj", "label": "کرج" },
+              { "value": "mahmudabad", "label": "محمودآباد" },
+              { "value": "asara", "label": "آسارا" },
+              { "value": "hashtgerd", "label": "هشتگرد" },
+              { "value": "savojbolagh", "label": "ساوجبلاغ" },
+              { "value": "eshtehard", "label": "اشتهارد" },
+              { "value": "shahriyar", "label": "شهریار" },
+              { "value": "khoor", "label": "خوار" },
+              { "value": "mehrshahr", "label": "مهریز" }
+            ]
+          },
+        {
+            "value": "ilam",
+            "label": "ایلام",
+            "cities": [
+              { "value": "ilam-city", "label": "ایلام" },
+              { "value": "dehloran", "label": "دهلران" },
+              { "value": "mizan", "label": "مهران" },
+              { "value": "abdanan", "label": "آبدانان" },
+              { "value": "haran", "label": "هلیلان" },
+              { "value": "chardavol", "label": "چرداول" },
+              { "value": "bakhtaran", "label": "بختیاری" },
+              { "value": "shahrestan", "label": "شهرستان" },
+              { "value": "ahvaz", "label": "اهواز" }
+            ]
+          },
+        {
+            "value": "bushehr",
+            "label": "بوشهر",
+            "cities": [
+              { "value": "bushehr-city", "label": "بوشهر" },
+              { "value": "kangan", "label": "کنگان" },
+              { "value": "asaluyeh", "label": "عسلویه" },
+              { "value": "dayyer", "label": "دیر" },
+              { "value": "dashtestan", "label": "دشتستان" },
+              { "value": "jam", "label": "جم" },
+              { "value": "tangestan", "label": "تنگستان" },
+              { "value": "ganaveh", "label": "گناوه" },
+              { "value": "penjwai", "label": "پنج‌وای" }
+            ]
+          },
+        {
+            "value": "tehran",
+            "label": "تهران",
+            "cities": [
+              { "value": "tehran-city", "label": "تهران" },
+              { "value": "shemiranat", "label": "شمیرانات" },
+              { "value": "rey", "label": "ری" },
+              { "value": "varamin", "label": "ورامین" },
+              { "value": "pakdasht", "label": "پاکدشت" },
+              { "value": "damavand", "label": "دماوند" },
+              { "value": "firoozkooh", "label": "فیروزکوه" },
+              { "value": "qarchek", "label": "قرچک" },
+              { "value": "pardis", "label": "پردیس" },
+              { "value": "baharestan", "label": "بهارستان" },
+              { "value": "malard", "label": "ملارد" },
+              { "value": "qods", "label": "قدس" },
+              { "value": "islamshahr", "label": "اسلامشهر" },
+              { "value": "rabatkarym", "label": "رباط‌کریم" }
+            ]
+          },
+        {
+            "value": "chaharmahal-bakhtiari",
+            "label": "چهارمحال و بختیاری",
+            "cities": [
+              { "value": "shahr-e-kord", "label": "شهرکرد" },
+              { "value": "farsan", "label": "فارسان" },
+              { "value": "kashan", "label": "کاشان" },
+              { "value": "lordegan", "label": "لردگان" },
+              { "value": "chegeni", "label": "چگنی" },
+              { "value": "koohdasht", "label": "کوهدشت" },
+              { "value": "faridan", "label": "فریدن" },
+              { "value": "kashan", "label": "کاشان" },
+              { "value": "istgah", "label": "ایستگاه" }
+            ]
+          },
+        {
+            "value": "khorasan-jonubi",
+            "label": "خراسان جنوبی",
+            "cities": [
+              { "value": "birjand", "label": "Birjand" },
+              { "value": "tabas", "label": "Tabas" },
+              { "value": "boshrooyeh", "label": "Boshrooyeh" },
+              { "value": "goharshad", "label": "Goharshad" },
+              { "value": "sarbisheh", "label": "Sarbisheh" },
+              { "value": "ferdows", "label": "Ferdows" },
+              { "value": "khusf", "label": "Khousf" },
+              { "value": "shahdad", "label": "Shahdad" },
+              { "value": "qaen", "label": "Qaen" }
+            ]
+          },
+        {
+            "value": "khorasan-razavi",
+            "label": "خراسان رضوی",
+            "cities": [
+              { "value": "mashhad", "label": "مشهد" },
+              { "value": "neyshabur", "label": "نیشابور" },
+              { "value": "sabzevar", "label": "سبزوار" },
+              { "value": "quchan", "label": "قوچان" },
+              { "value": "torbat-heydarieh", "label": "تربت حیدریه" },
+              { "value": "torbat-jam", "label": "تربت جام" },
+              { "value": "kashmar", "label": "کاشمر" },
+              { "value": "fariman", "label": "فریمان" },
+              { "value": "zaveh", "label": "زاوه" },
+              { "value": "golmohammad", "label": "گلمحمد" },
+              { "value": "bajestan", "label": "باژستان" },
+              { "value": "rashtkhvar", "label": "رشتی‌خان" },
+              { "value": "tireh", "label": "تیرۀ" }
+            ]
+          },
+        {
+            "value": "khorasan-shomali",
+            "label": "خراسان شمالی",
+            "cities": [
+              { "value": "bojnurd", "label": "بجنورد" },
+              { "value": "ashkhaneh", "label": "آشخانه" },
+              { "value": "esfarayen", "label": "اسفراین" },
+              { "value": "garmeh", "label": "گرمه" },
+              { "value": "jajarm", "label": "جاجرم" },
+              { "value": "manjilabad", "label": "منجیل‌آباد" },
+              { "value": "shahrud", "label": "شاهرود" },
+              { "value": "nazarkahrabi", "label": "نظرکهرابی" }
+            ]
+          },
+        {
+            "value": "khuzestan",
+            "label": "خوزستان",
+            "cities": [
+              { "value": "ahvaz", "label": "اهواز" },
+              { "value": "abadan", "label": "آبادان" },
+              { "value": "khorramshahr", "label": "خرمشهر" },
+              { "value": "dezful", "label": "دزفول" },
+              { "value": "andimeshk", "label": "اندیمشک" },
+              { "value": "masjed-soleyman", "label": "مسجد سلیمان" },
+              { "value": "shush", "label": "شوش" },
+              { "value": "shahreza", "label": "شهرضا" },
+              { "value": "susangerd", "label": "سوسنگرد" },
+              { "value": "ramhormoz", "label": "رامهرمز" },
+              { "value": "alvand", "label": "آلوند" },
+              { "value": "hoveizeh", "label": "هویزه" },
+              { "value": "sarband", "label": "سربندر" },
+              { "value": "abadan", "label": "آبادان" }
+            ]
+          },
+        {
+            "value": "zanjan",
+            "label": "زنجان",
+            "cities": [
+              { "value": "zanjan-city", "label": "زنجان" },
+              { "value": "abhar", "label": "ابهر" },
+              { "value": "khodabandeh", "label": "خدابنده" },
+              { "value": "khorramdarreh", "label": "خرمدره" },
+              { "value": "mahneshan", "label": "ماه‌نشان" },
+              { "value": "tarom", "label": "طارم" },
+              { "value": "soltaniyeh", "label": "سلطانیه" }
+            ]
+          },
+        {
+            "value": "semnan",
+            "label": "سمنان",
+            "cities": [
+              { "value": "semnan-city", "label": "سمنان" },
+              { "value": "shahroud", "label": "شاهرود" },
+              { "value": "damghan", "label": "دامغان" },
+              { "value": "garmsar", "label": "گرمسار" },
+              { "value": "meyami", "label": "میامی" },
+              { "value": "aradan", "label": "آرادان" }
+            ]
+          },
+        {
+            "value": "sistan-baluchestan",
+            "label": "سیستان و بلوچستان",
+            "cities": [
+              { "value": "zahedan", "label": "زاهدان" },
+              { "value": "zabol", "label": "زابل" },
+              { "value": "chabahar", "label": "چابهار" },
+              { "value": "saravan", "label": "سراوان" },
+              { "value": "khash", "label": "خاش" },
+              { "value": "nikshahr", "label": "نیکشهر" },
+              { "value": "irmak", "label": "ایرماک" },
+              { "value": "konarak", "label": "کنارک" },
+              { "value": "mirjaveh", "label": "میرجاوه" },
+              { "value": "sib-suran", "label": "سیب و سوران" },
+              { "value": "delgan", "label": "دلگان" },
+              { "value": "fanouj", "label": "فنوج" },
+              { "value": "dashtiari", "label": "دشتیاری" },
+              { "value": "zahak", "label": "زهک" }
+            ]
+          },
+        {
+            "value": "fars",
+            "label": "فارس",
+            "cities": [
+              { "value": "shiraz", "label": "شیراز" },
+              { "value": "jahrom", "label": "جهرم" },
+              { "value": "fasa", "label": "فسا" },
+              { "value": "kazerun", "label": "کازرون" },
+              { "value": "lar", "label": "لار" },
+              { "value": "khoramshahr", "label": "خرم‌بید" },
+              { "value": "darab", "label": "داراب" },
+              { "value": "estahban", "label": "استهبان" },
+              { "value": "abadeh", "label": "آباده" },
+              { "value": "bavanat", "label": "بوانات" },
+              { "value": "bakhtegan", "label": "بختگان" },
+              { "value": "sarvestan", "label": "سروستان" },
+              { "value": "ghotbabad", "label": "قطب‌آباد" },
+              { "value": "noocht", "label": "نوشت" }
+            ]
+          },
+        {
+            "value": "qazvin",
+            "label": "قزوین",
+            "cities": [
+              { "value": "qazvin-city", "label": "قزوین" },
+              { "value": "takestan", "label": "تاکستان" },
+              { "value": "abyek", "label": "آبیک" },
+              { "value": "buin-zahra", "label": "بوئین زهرا" },
+              { "value": "alborz", "label": "البرز" },
+              { "value": "avaj", "label": "آوج" }
+            ]
+          },
+        {
+            "value": "qom",
+            "label": "قم",
+            "cities": [
+              { "value": "qom-city", "label": "قم" },
+              { "value": "jafarabad", "label": "جعفرآباد" },
+              { "value": "kahak", "label": "کهک" },
+              { "value": "salafchegan", "label": "سلفچگان" },
+              { "value": "dastjerd", "label": "دستجرد" }
+            ]
+          },
+        {
+            "value": "kordestan",
+            "label": "کردستان",
+            "cities": [
+              { "value": "sanandaj", "label": "سنندج" },
+              { "value": "marivan", "label": "مریوان" },
+              { "value": "saqqez", "label": "سقز" },
+              { "value": "baneh", "label": "بانه" },
+              { "value": "bijar", "label": "بیجار" },
+              { "value": "divandarreh", "label": "دیواندره" },
+              { "value": "kamyaran", "label": "کامیاران" },
+              { "value": "dehgolan", "label": "دهگلان" },
+              { "value": "sarvabad", "label": "سروآباد" }
+            ]
+          },
+        {
+            "value": "kerman",
+            "label": "کرمان",
+            "cities": [
+              { "value": "kerman-city", "label": "کرمان" },
+              { "value": "sirjan", "label": "سیرجان" },
+              { "value": "rafanjan", "label": "رفسنجان" },
+              { "value": "bam", "label": "بم" },
+              { "value": "jiroft", "label": "جیرفت" },
+              { "value": "baft", "label": "بافت" },
+              { "value": "bardseer", "label": "بردسیر" },
+              { "value": "kahnuj", "label": "کهنوج" },
+              { "value": "anbarabad", "label": "عنبرآباد" },
+              { "value": "shahrbabak", "label": "شهربابک" },
+              { "value": "raavar", "label": "راور" },
+              { "value": "manoujan", "label": "منوجان" },
+              { "value": "faryab", "label": "فاریاب" },
+              { "value": "rigan", "label": "ریگان" },
+              { "value": "golbaf", "label": "گلباف" },
+              { "value": "narmashir", "label": "نرماشیر" }
+            ]
+          },
+        {
+            "value": "kermanshah",
+            "label": "کرمانشاه",
+            "cities": [
+              { "value": "kermanshah-city", "label": "کرمانشاه" },
+              { "value": "islamabad-gharb", "label": "اسلام‌آباد غرب" },
+              { "value": "sarpol-zahab", "label": "سرپل ذهاب" },
+              { "value": "javanrud", "label": "جوانرود" },
+              { "value": "paveh", "label": "پاوه" },
+              { "value": "harsin", "label": "هرسین" },
+              { "value": "sahneh", "label": "صحنه" },
+              { "value": "songhor", "label": "سنقر" },
+              { "value": "gilan-gharb", "label": "گیلان‌غرب" },
+              { "value": "kangavar", "label": "کنگاور" },
+              { "value": "ravansar", "label": "روانسر" },
+              { "value": "qasr-shirin", "label": "قصر شیرین" },
+              { "value": "dalahu", "label": "دالاهو" }
+            ]
+          },
+        {
+            "value": "kohgiluyeh-boyerahmad",
+            "label": "کهگیلویه و بویراحمد",
+            "cities": [
+              { "value": "yasuj", "label": "یاسوج" },
+              { "value": "dehdasht", "label": "دهدشت" },
+              { "value": "dogonbadan", "label": "دوگنبدان" },
+              { "value": "likak", "label": "لیکک" },
+              { "value": "charam", "label": "چرام" },
+              { "value": "basht", "label": "باشت" },
+              { "value": "sisakht", "label": "سی‌سخت" },
+              { "value": "pataveh", "label": "پاتاوه" }
+            ]
+          },
+        {
+            "value": "golestan",
+            "label": "گلستان",
+            "cities": [
+              { "value": "gorgan", "label": "گرگان" },
+              { "value": "gonbad-kavoos", "label": "گنبد کاووس" },
+              { "value": "aliabad-katoul", "label": "علی‌آباد کتول" },
+              { "value": "band-e-gaz", "label": "بندر گز" },
+              { "value": "kordkuy", "label": "کردکوی" },
+              { "value": "minudasht", "label": "مینودشت" },
+              { "value": "kabudarahang", "label": "کبودرآهنگ" },
+              { "value": "ayvali", "label": "آیولی" },
+              { "value": "akhlamad", "label": "اخلمد" }
+            ]
+          },
+        {
+            "value": "gilan",
+            "label": "گیلان",
+            "cities": [
+              { "value": "rasht", "label": "رشت" },
+              { "value": "lahijan", "label": "لاهیجان" },
+              { "value": "anzali", "label": "انزلی" },
+              { "value": "fouman", "label": "فومن" },
+              { "value": "langarud", "label": "لنگرود" },
+              { "value": "rudsar", "label": "رودسر" },
+              { "value": "talesh", "label": "تالش" },
+              { "value": "masal", "label": "ماسال" },
+              { "value": "astara", "label": "آستارا" },
+              { "value": "siahkal", "label": "سیاهکل" },
+              { "value": "starkey", "label": "استارکی" },
+              { "value": "rezyan", "label": "رضیان" }
+            ]
+          },
+        {
+            "value": "lorestan",
+            "label": "لرستان",
+            "cities": [
+              { "value": "khorramabad", "label": "خرم‌آباد" },
+              { "value": "boroujerd", "label": "بروجرد" },
+              { "value": "aligudarz", "label": "الیگودرز" },
+              { "value": "doroud", "label": "دورود" },
+              { "value": "pol-e-dokhtar", "label": "پل‌دختر" },
+              { "value": "spaydar", "label": "سپیددشت" },
+              { "value": "rameh", "label": "رَمَیَه" },
+              { "value": "mamulan", "label": "مامُلَان" },
+              { "value": "noorabad", "label": "نورآباد" },
+              { "value": "kamyaran", "label": "کامیَران" }
+            ]
+          },
+        {
+            "value": "mazandaran",
+            "label": "مازندران",
+            "cities": [
+              { "value": "sari", "label": "ساری" },
+              { "value": "amol", "label": "آمل" },
+              { "value": "babol", "label": "بابل" },
+              { "value": "qaemshahr", "label": "قائمشهر" },
+              { "value": "chalous", "label": "چالوس" },
+              { "value": "noshahr", "label": "نوشهر" },
+              { "value": "behshahr", "label": "بهشهر" },
+              { "value": "tonekabon", "label": "تنکابن" },
+              { "value": "fereydunkenar", "label": "فریدون‌کنار" },
+              { "value": "neka", "label": "نکا" },
+              { "value": "mahshehr", "label": "محمودآباد" },
+              { "value": "juybar", "label": "جویبار" },
+              { "value": "kolaabad", "label": "کلاله" },
+              { "value": "babolrood", "label": "بابلسر" }
+            ]
+          },
+        {
+            "value": "markazi",
+            "label": "مرکزی",
+            "cities": [
+              { "value": "arak", "label": "اراک" },
+              { "value": "khomein", "label": "خمین" },
+              { "value": "saveh", "label": "ساوه" },
+              { "value": "delijan", "label": "دلیجان" },
+              { "value": "kaber", "label": "کبیر" },
+              { "value": "shahindezh", "label": "شاهیندژ" },
+              { "value": "mahdishahr", "label": "محله‌شهر" },
+              { "value": "taham", "label": "تاهام" },
+              { "value": "farsan", "label": "فارسان" }
+            ]
+          },
+        {
+            "value": "hormozgan",
+            "label": "هرمزگان",
+            "cities": [
+              { "value": "bandar-abbas", "label": "بندر عباس" },
+              { "value": "minab", "label": "میناب" },
+              { "value": "bashagard", "label": "بشاکرد" },
+              { "value": "bagh", "label": "باغ" },
+              { "value": "sirik", "label": "سیریک" },
+              { "value": "rudan", "label": "رودان" },
+              { "value": "khormoj", "label": "خرموج" },
+              { "value": "darakht", "label": "درخت" },
+              { "value": "jask", "label": "جاسک" },
+              { "value": "hajjiabad", "label": "حاجی آباد" }
+            ]
+          },
+        {
+            "value": "hamadan",
+            "label": "همدان",
+            "cities": [
+              { "value": "hamadan-city", "label": "همدان" },
+              { "value": "malayer", "label": "ملایر" },
+              { "value": "tuyserkan", "label": "تویسرکان" },
+              { "value": "kaboudrahang", "label": "کبودرآهنگ" },
+              { "value": "asadabad", "label": "اسدآباد" },
+              { "value": "famenin", "label": "فامنین" },
+              { "value": "bahar", "label": "بهار" },
+              { "value": "nahavand", "label": "نهاوند" },
+              { "value": "razen", "label": "رزن" },
+              { "value": "doroudzan", "label": "درگزین" }
+            ]
+          },
+        {
+            "value": "yazd",
+            "label": "یزد",
+            "cities": [
+              { "value": "yazd-city", "label": "یزد" },
+              { "value": "ashkezar", "label": "اشکذر" },
+              { "value": "khatam", "label": "خاتم" },
+              { "value": "taft", "label": "تفت" },
+              { "value": "abarkuh", "label": "ابَرکوه" },
+              { "value": "bafq", "label": "بافق" },
+              { "value": "meybod", "label": "میبد" },
+              { "value": "sarda", "label": "اردکان" },
+              { "value": "sadayat", "label": "سادات" },
+              { "value": "ashkabad", "label": "اشک آباد" }
+            ]
+          }
+
+    ]
+}
